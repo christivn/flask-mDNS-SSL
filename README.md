@@ -136,6 +136,8 @@ https://example.local
 
 El certificado SSL será válido porque fue generado por `mkcert`, por lo que no aparecerán advertencias de "sitio no confiable" en tu navegador (solo en máquinas que tengan instalada la misma CA).
 
+---
+
 ### Notas adicionales
 
 - Si otros dispositivos en la misma red local también necesitan confiar en este certificado, puedes exportar la CA local desde tu máquina y agregarla como "confiable" en esos dispositivos.
